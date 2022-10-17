@@ -1,6 +1,17 @@
 header {
     display:block;
   }
+  h1{
+
+    color: white;
+    font-weight: bold;
+    
+    
+
+
+
+  }
+  
   .white {
  color: white;
 font-size: large;
@@ -39,4 +50,20 @@ font-weight: bold;
     color: white;
     font-size: 30px;
 margin-top: 0px;
+  }
+   #kep1 {
+   text-align: center;
+  }
+  h1{
+font-size: larger;
+font-weight: bolder;
+text-decoration: underline;
+text-align: center;
+
+  }
+  .Zotya{
+text-align: center;
+text-decoration: underline;
+color: white;
+font-weight: bold;
   }
