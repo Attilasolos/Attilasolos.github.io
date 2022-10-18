@@ -2,14 +2,8 @@ header {
     display:block;
   }
   h1{
-
     color: white;
     font-weight: bold;
-    
-    
-
-
-
   }
   
   .white {
@@ -66,4 +60,9 @@ text-align: center;
 text-decoration: underline;
 color: white;
 font-weight: bold;
+  }
+  .nemlink {
+color: aqua;
+text-decoration: underline;
+text-align: center;
   }
