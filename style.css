@@ -30,18 +30,18 @@ font-weight: bold;
   
   .vertical-menu a.active {
     background-color: #04AA6D; /* Add a green color to the "active/current" link */
-    color: white;
+    color: white #04AA6D ;
   }
   .vertical-menu {
-    width: 200px;
-    height: 40px;
+    width: 400px;
+    height: 100px;
     overflow-y: auto;
   }
   .header {
     padding: 10px;
     text-align: center;
     background: #000;
-    color: white;
+    color: white #04AA6D;
     font-size: 30px;
 margin-top: 0px;
   }
@@ -65,4 +65,8 @@ font-weight: bold;
 color: aqua;
 text-decoration: underline;
 text-align: center;
+  }
+  table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
   }
