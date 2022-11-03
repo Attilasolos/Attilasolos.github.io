@@ -42,7 +42,7 @@ font-weight: bold;
 color: aqua;
 text-decoration: underline;
 font-size: larger;
-margin: 0% 10%;
+margin: 0% 12%;
   }
   table, th, td {
     border: 3px solid black;
@@ -59,4 +59,26 @@ color: black;
 font-size: larger;
 color: white;
 margin: 0% 9%;
+  }
+  .main{
+margin: 0% 0% ;
+background-color: gray;
+padding: 10px;
+  }
+#Kell{
+  margin: 0% 5% ;
+  background-color: gray;
+  padding: 10px;
+margin: auto;
+
+  }
+  #pic{
+width: 150px;
+height: 100px;
+float: left;
+
+  }
+  h2{
+    color: white;
+    font-weight: bold;
   }
