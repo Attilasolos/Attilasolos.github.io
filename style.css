@@ -21,6 +21,7 @@ font-weight: bold;
     color: white #04AA6D;
     font-size: 30px;
 margin-top: 0px;
+
   }
    #kep1 {
    text-align: center;
@@ -42,7 +43,7 @@ font-weight: bold;
 color: aqua;
 text-decoration: underline;
 font-size: larger;
-margin: 0% 12%;
+margin: 0% 4%;
   }
   table, th, td {
     border: 3px solid black;
@@ -58,10 +59,11 @@ color: black;
 
 font-size: larger;
 color: white;
-margin: 0% 9%;
+margin: 0% 2%;
+
   }
   .main{
-margin: 0% 0% ;
+margin: 0% 20% ;
 background-color: gray;
 padding: 10px;
   }
@@ -73,8 +75,8 @@ margin: auto;
 
   }
   #pic{
-width: 150px;
-height: 100px;
+width: 120px;
+height: 80px;
 float: left;
 
   }
@@ -82,3 +84,53 @@ float: left;
     color: white;
     font-weight: bold;
   }
+  .dlc
+  {
+float:inline-end;
+color: white;
+font-size: large;
+font-weight: bold;
+  }
+  .fo{
+margin: 0px 50px ;
+}
+#Ferenc{
+color: gold;
+
+}
+.black{
+  background-color: black;
+} 
+.background{
+background-image: url(https://store-images.s-microsoft.com/image/apps.47969.14624623825567191.2a9f7aa6-068a-4bb0-b9f4-86968eeb537d.23ef8a70-ef8f-4b40-80c0-7cf48b5d7207);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+ 
+}
+.ertekeles{
+color: gold;
+font-weight: bold;
+font-size: larger;
+}
+.D-or-D{
+float: right;
+max-width:500px ;
+max-height: 281px ;
+
+}
+#h42{
+  float: right;
+  max-width:500px ;
+  max-height: 281px ;}
+#h41{
+
+  float: right;
+  max-width:500px ;
+  max-height: 281px ;
+}
+#h43{
+  float: right;
+  max-width:500px ;
+  max-height: 281px ;
+}
