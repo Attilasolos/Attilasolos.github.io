@@ -1,6 +1,9 @@
+*{
+  margin: 0;
+}
 header {
     display:block;
-  }
+}
   h1{
     color: white;
     font-weight: bold;
@@ -17,12 +20,13 @@ font-weight: bold;
   .header {
     padding: 10px;
     text-align: center;
-    background: #000;
     color: white #04AA6D;
-    font-size: 30px;
-margin-top: 0px;
-
+    font-size: 25px;
   }
+.background{
+  background: #000;
+
+}
    #kep1 {
    text-align: center;
   }
@@ -43,7 +47,7 @@ font-weight: bold;
 color: aqua;
 text-decoration: underline;
 font-size: larger;
-margin: 0% 4%;
+margin: 20% 4%;
   }
   table, th, td {
     border: 3px solid black;
@@ -56,16 +60,16 @@ color: black;
 
   }
   .enyem{
-
 font-size: larger;
 color: white;
-margin: 0% 2%;
-
+margin: 300px 200px 0 0;
+position:relative;
   }
   .main{
-margin: 0% 20% ;
-background-color: gray;
+margin: 1% 20% ;
+background-color: rgba(128, 128, 128, 0.8);
 padding: 10px;
+border-radius: 0.3cm;
   }
 #Kell{
   margin: 0% 5% ;
@@ -100,13 +104,21 @@ color: gold;
 }
 .black{
   background-color: black;
+  height: 100px;
 } 
-.background{
+.black a{
+  margin-top: 20px;
+}
+.black div{
+  margin-top: 10px ;
+  margin-bottom: 10px
+}
+body{
 background-image: url(https://store-images.s-microsoft.com/image/apps.47969.14624623825567191.2a9f7aa6-068a-4bb0-b9f4-86968eeb537d.23ef8a70-ef8f-4b40-80c0-7cf48b5d7207);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
- 
+
 }
 .ertekeles{
 color: gold;
@@ -117,7 +129,12 @@ font-size: larger;
 float: right;
 max-width:500px ;
 max-height: 281px ;
+margin-top: 15px;
 
+}
+ul{
+  margin-top: 30px;
+  margin-bottom: 40px;
 }
 #h42{
   float: right;
