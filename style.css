@@ -4,14 +4,10 @@
 header {
     display:block;
 }
-  h1{
-    color: white;
-    font-weight: bold;
-  }
   
   .white {
  color: white;
-font-size: large;
+font-size: 20px;
 font-weight: bold;
 
   }
@@ -39,7 +35,7 @@ text-align: center;
   }
   .Zotya{
 text-align: center;
-text-decoration: underline;
+font-size: 20px;
 color: white;
 font-weight: bold;
   }
@@ -50,9 +46,11 @@ font-size: larger;
 margin: 20% 4%;
   }
   table, th, td {
-    border: 3px solid black;
+    border: 5px solid white;
     border-collapse: collapse;
-    background-color: white;
+    background-color: rgba(50, 50, 50, 0.8);
+    color: white;
+    font-size: 20px;
   }
   .gray{
 color: black;
@@ -67,9 +65,11 @@ position:relative;
   }
   .main{
 margin: 1% 20% ;
-background-color: rgba(128, 128, 128, 0.8);
+background-color: rgba(50, 50, 50, 0.8);
 padding: 10px;
 border-radius: 0.3cm;
+border: 5px solid white ;
+
   }
 #Kell{
   margin: 0% 5% ;
@@ -84,9 +84,10 @@ height: 80px;
 float: left;
 
   }
-  h2{
+  .h2{
     color: white;
     font-weight: bold;
+    font-size: 30px;
   }
   .dlc
   {
@@ -129,8 +130,6 @@ font-size: larger;
 float: right;
 max-width:500px ;
 max-height: 281px ;
-margin-top: 15px;
-
 }
 ul{
   margin-top: 30px;
@@ -152,7 +151,7 @@ ul{
   max-height: 281px ;
 } 
 .kepkeret{
-  width: 400px;
+  width: 500px;
   float: right;
   text-align: center;
   padding: 0px 0px 10px;
@@ -161,4 +160,21 @@ ul{
   overflow: hidden;
  background-color: white;
 font-weight: bold;
+}
+.link{
+  float: left;
+  height: 100pxs;
+  width: 150px;
+}
+a:active{
+color: red;
+}
+span{
+  color: gold;
+  font-size: 30px;
+}
+.cim{
+  color: white;
+  text-decoration: underline;
+  font-size: 40px;
 }
