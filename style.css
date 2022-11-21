@@ -3,16 +3,12 @@
 }
 header {
     display:block;
-}
-  
+}  
   .white {
  color: white;
 font-size: 20px;
 font-weight: bold;
-
   }
- 
-  
   .header {
     padding: 10px;
     text-align: center;
@@ -31,8 +27,7 @@ font-size: larger;
 font-weight: bolder;
 text-decoration: underline;
 text-align: center;
-
-  }
+ }
   .Zotya{
 text-align: center;
 font-size: 20px;
@@ -54,8 +49,6 @@ margin: 20% 4%;
   }
   .gray{
 color: black;
-
-
   }
   .enyem{
 font-size: larger;
@@ -69,25 +62,23 @@ background-color: rgba(50, 50, 50, 0.8);
 padding: 10px;
 border-radius: 0.3cm;
 border: 5px solid white ;
-
   }
 #Kell{
   margin: 0% 5% ;
   background-color: gray;
   padding: 10px;
 margin: auto;
-
   }
   #pic{
 width: 120px;
 height: 80px;
 float: left;
-
   }
   .h2{
     color: white;
     font-weight: bold;
     font-size: 30px;
+   text-decoration: underline;
   }
   .dlc
   {
@@ -101,7 +92,6 @@ margin: 0px 50px ;
 }
 #Ferenc{
 color: gold;
-
 }
 .black{
   background-color: black;
@@ -119,7 +109,6 @@ background-image: url(https://store-images.s-microsoft.com/image/apps.47969.1462
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
-
 }
 .ertekeles{
 color: gold;
