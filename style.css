@@ -66,7 +66,7 @@ border: 5px solid white ;
 #Kell{
   margin: 0% 5% ;
   background-color: gray;
-  padding: 10px;
+ padding: 10px;
 margin: auto;
   }
   #pic{
@@ -156,7 +156,7 @@ font-weight: bold;
   width: 150px;
 }
 a:active{
-color: red;
+color: skyblue;
 }
 span{
   color: gold;
