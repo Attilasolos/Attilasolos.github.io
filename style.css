@@ -17,7 +17,6 @@ font-weight: bold;
   }
 .background{
   background: #000;
-
 }
    #kep1 {
    text-align: center;
@@ -57,7 +56,7 @@ margin: 300px 200px 0 0;
 position:relative;
   }
   .main{
-margin: 1% 20% ;
+margin: 4% 20% ;
 background-color: rgba(50, 50, 50, 0.8);
 padding: 10px;
 border-radius: 0.3cm;
@@ -65,7 +64,7 @@ border: 5px solid white ;
   }
 #Kell{
   margin: 0% 5% ;
-  background-color: gray;
+background-color: gray;
  padding: 10px;
 margin: auto;
   }
@@ -149,6 +148,7 @@ ul{
   overflow: hidden;
  background-color: white;
 font-weight: bold;
+
 }
 .link{
   float: left;
@@ -166,4 +166,9 @@ span{
   color: white;
   text-decoration: underline;
   font-size: 40px;
+}
+.main:hover {
+  transform: scale(110%);
+  transition: .3s;
+  
 }
